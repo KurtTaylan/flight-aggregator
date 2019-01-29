@@ -1,0 +1,107 @@
+[
+  {
+    "id": 6816237140599648256,
+    "departure": "Villa Aberastain",
+    "arrival": "Acebal",
+    "departureTime": 1548699682446,
+    "arrivalTime": 1548709102715
+  },
+  {
+    "id": 1121236595738074112,
+    "departure": "Veronica",
+    "arrival": "Maipu",
+    "departureTime": 1548702268352,
+    "arrivalTime": 1548707576642
+  },
+  {
+    "id": 1250129306951491584,
+    "departure": "Tristan Suarez",
+    "arrival": "Jauregui",
+    "departureTime": 1548698797518,
+    "arrivalTime": 1548708552326
+  },
+  {
+    "id": 4259163979775634432,
+    "departure": "Lanus",
+    "arrival": "Paso del Rey",
+    "departureTime": 1548705298567,
+    "arrivalTime": 1548711117912
+  },
+  {
+    "id": 1276363611655639040,
+    "departure": "Germania",
+    "arrival": "Victoria",
+    "departureTime": 1548702658837,
+    "arrivalTime": 1548704807497
+  },
+  {
+    "id": 4109976683000991744,
+    "departure": "City Bell",
+    "arrival": "Abasto",
+    "departureTime": 1548704801077,
+    "arrivalTime": 1548705704730
+  },
+  {
+    "id": 193550931400064000,
+    "departure": "Formosa",
+    "arrival": "Palpala",
+    "departureTime": 1548698068931,
+    "arrivalTime": 1548704987125
+  },
+  {
+    "id": 5601821487389030400,
+    "departure": "San Salvador",
+    "arrival": "Rafael Calzada",
+    "departureTime": 1548707063251,
+    "arrivalTime": 1548715515175
+  },
+  {
+    "id": 8298827069965224960,
+    "departure": "Granadero Baigorria",
+    "arrival": "Pilar",
+    "departureTime": 1548700462237,
+    "arrivalTime": 1548705044629
+  },
+  {
+    "id": 7399261285198575616,
+    "departure": "Victoria",
+    "arrival": "San Jorge",
+    "departureTime": 1548701461954,
+    "arrivalTime": 1548707507774
+  },
+  {
+    "id": 286169257753297920,
+    "departure": "El Tarf",
+    "arrival": "Draria",
+    "departureTime": 1548701389768,
+    "arrivalTime": 1548703510096
+  },
+  {
+    "id": 3768408592729428992,
+    "departure": "San Bernardo",
+    "arrival": "Sacanta",
+    "departureTime": 1548701771771,
+    "arrivalTime": 1548708682409
+  },
+  {
+    "id": 3508865543124919296,
+    "departure": "Alvarez",
+    "arrival": "Castelli",
+    "departureTime": 1548699676277,
+    "arrivalTime": 1548706635343
+  },
+  {
+    "id": 2376355489357870080,
+    "departure": "Mercedes",
+    "arrival": "Villa Mercedes",
+    "departureTime": 1548703508992,
+    "arrivalTime": 1548705503052
+  },
+  {
+    "id": 4035912834788327424,
+    "departure": "Alta Gracia",
+    "arrival": "Dolores",
+    "departureTime": 1548701601462,
+    "arrivalTime": 1548711596010
+  }
+]

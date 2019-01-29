@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "235d1a59-8753-4b06-b318-b600fe4e0749",
+    "flight": "Chateaubriand -> Palmira",
+    "departure": "2019-01-28T18:26:47.664Z",
+    "arrival": "2019-01-28T20:57:56.456Z"
+  },
+  {
+    "uuid": "667e8812-2850-47d7-be4b-0798ff6b5bd3",
+    "flight": "Cosquin -> Rafael Obligado",
+    "departure": "2019-01-28T20:03:53.556Z",
+    "arrival": "2019-01-28T20:55:32.728Z"
+  },
+  {
+    "uuid": "2e85e2f5-5ffc-4959-8ab7-688c03f0da8a",
+    "flight": "Bragado -> Berisso",
+    "departure": "2019-01-28T20:11:50.789Z",
+    "arrival": "2019-01-28T20:29:34.333Z"
+  }
+]
